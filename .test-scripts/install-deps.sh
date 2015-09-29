@@ -10,6 +10,6 @@ mkdir -p ~/downloads
 cd ~/downloads
 wget http://libslack.org/download/libslack-0.6.tar.gz
 tar xzf libslack-0.6.tar.gz
-cd libslack-0.6.tar.gz
+cd libslack-0.6
 make
 sudo make install
