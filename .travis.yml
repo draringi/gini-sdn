@@ -1,3 +1,4 @@
+sudo: required
 compiler:
   - clang
   - gcc
