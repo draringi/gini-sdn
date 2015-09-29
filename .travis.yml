@@ -1,0 +1,5 @@
+compiler:
+  - clang
+  - gcc
+
+install: .test-scripts/install-deps.sh
