@@ -14,7 +14,7 @@ cd libslack-0.6
 make
 sudo make install
 cd ~/downloads
-git clone git clone git://github.com/anrl/gini.git
+git clone git://github.com/anrl/gini.git
 export GINI_HOME=/usr/local
 cd gini/source
 scons
